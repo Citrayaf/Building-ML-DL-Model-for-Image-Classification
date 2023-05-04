@@ -1,3 +1,2 @@
 # Building-ML-DL-Model-for-Image-Classification
-Source codes to build ML DL model for Image Classification that I made for AI Practicum Modules
-I got a project to make some practicum modules for AI Praticum Subject in University. In module 10, I made some codes to make 
+This repository contains source code to build a machine learning and deep learning model for image classification. The code was developed as part of the AI Practicum modules and includes sample datasets that can be modified as needed. Module 10 provides code for image classification using various machine learning algorithms, while Module 11 includes code in Google Colab for image classification using several deep learning algorithms. Additionally, the GUIexe.zip file contains code for building an executable file application to implement your DL/ML model. If you encounter any issues or have questions, feel free to create a new issue or start a discussion.
